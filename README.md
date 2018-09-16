@@ -1,5 +1,11 @@
 # html转成pdf,下载（html2canvas 和 jsPDF）
 
+我们项目需求中有多个echarts图表，
+
+添加[test5](./docs/test5.html)
+
+---
+
 最近碰到个需求，需要把当前页面生成pdf，并下载。弄了几天，自己整理整理，记录下来，我觉得应该会有人需要 ：）
 
 
@@ -281,3 +287,6 @@ pdf.addImage(pageData, 'JPEG', 20, position, imgWidth, imgHeight);
 <http://rawgit.com/MrRio/jsPDF/master/docs/index.html>
 
 <http://mrrio.github.io/>
+
+
+
